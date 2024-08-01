@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @saba-nida
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning node js
+- 👀 I’m interested in web development and artificial intelligence
+- 🌱 I’m currently learning ai and ml and react js
 - 💞️ I’m looking to collaborate on projects related to web development 
-- 📫 linkedln : Saba Nida
+- 📫 linkedln : 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I work well under pressure.
 
